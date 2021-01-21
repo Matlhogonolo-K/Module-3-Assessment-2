@@ -1,0 +1,531 @@
+.body-home {
+    background-image: url(images/homepage-background-port.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    
+}
+
+.body-main-menu {
+    background-image: url(images/Main-menu-background-port.jpg);
+    background-size: cover;
+    width: 100%;
+    max-height: inherit;
+}
+
+.body-menu {
+    margin-top: 70px;
+    background-image: url(images/Background-port-.jpg);
+    width: 100%;
+   
+}
+
+.final-pages{
+    background-color: whitesmoke;
+}
+
+.body-order {
+    background-image: url(images/star.jpg);
+    background-size: cover;
+    opacity: .8;
+    height: 100%
+    background-repeat: no-repeat;
+}
+
+/*=============== HEADER ===============*/
+
+.header i {
+    float: left;
+    padding: 17px 0px 0px 17px;
+    color: #1E6274;
+    font-size: 30px;
+}
+
+.header-homepage {
+    text-align: center;
+    
+}
+.header {
+    background-color: whitesmoke;
+    width: 100%;
+    height: 70px;
+    top: 0;
+    text-align: center;
+    position: fixed;
+    overflow: hidden;
+    text-align: center;
+}
+
+.header img {
+    width: 250px;
+    padding-top: 5px;
+    padding-right: 25px;
+}
+
+
+
+
+/*=============== HOME PAGE ===============*/
+
+.body-homepage {
+    padding: 60px;
+}
+
+.homepage-menu {
+    margin-top: 60px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+    
+    border: 5px solid #ffffff;
+    display: block;
+    padding: 10px;
+    width: 85%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+/*=============== MAIN MENU PAGES ===============*/
+
+#main-menu {
+    margin-left: 50%;
+    margin-right: 50%;
+    line-height: 100%;
+    display: inline-block;
+     
+    
+}
+
+.main-menu-content{
+    text-align: center;
+}
+
+.main-menu {
+     line-height: 1.0;
+    margin-top: 60px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+    color: whitesmoke;
+    vertical-align: middle;
+    border: 5px solid whitesmoke;
+    display: inline-block;
+    padding: 10px;
+    width: 80%;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+.main-menu img {
+    float: right;
+    width: 150px;
+    height: 150px;
+    border: 2px solid whitesmoke;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+a.main-menu img {
+    margin-left:0; 
+}
+
+
+
+/*=============== GO BACK ===============*/
+
+.back{
+    font-size: 30px;
+    text-decoration: none;
+    color: whitesmoke;
+    
+}
+
+.back a {
+    text-align: center;
+    color: whitesmoke;
+}
+
+
+/*=============== KID'S MENU ================*/
+
+
+.kiddies-menu {
+    float: right;
+}
+
+.kids-menu {
+    margin-top: 5px;
+    text-align: center;
+}
+
+#kids-menu-items {
+    text-align: center;
+}
+
+.kids-menu {
+    margin-top: 60px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+    color: whitesmoke;
+    vertical-align: middle;
+    border: 5px solid whitesmoke;
+    display: inline-block;
+    padding: 10px;
+    width: 80%;
+    margin-bottom: 10px;
+    
+}
+
+.kids-menu img {
+    float: right;
+    width: 150px;
+    height: 150px;
+    border: 2px solid whitesmoke;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+/*===============  MENU ================*/
+
+.head {
+    margin-top: 70px;
+     width: 100%;
+    text-align: center;
+    background-color: #124C55;
+    
+}
+
+.head h2 {
+    font-family: helvetica;
+    font-size: 40px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.menu-items {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.menu-items h3 {
+    font-size: 27px;
+}
+
+.menu-items a{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+    border: 5px solid #ffffff;
+    display: block;
+    padding: 5px;
+}
+
+
+
+/*===============  FINAL PAGES ================*/
+
+
+.final-pages-details img {
+    margin-top: 60px;
+    width: 100%;  
+}
+
+.final-pages-details h3 {
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    color:  #1E6274;
+    border: 5px solid #1E6274;
+    padding: 5px;
+}
+
+.final-pages-details p{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #1E6274;
+    margin-left: 15px;
+}
+
+.food-details {
+    color: #1E6274;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.food-details p {
+    display: inline-block;
+    font-size: 20px;
+}
+
+.place-order {
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    width: 280px;
+    height: 30px;
+    background-color: #1E6274;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    margin: 12px, 0;
+    padding: 8px, 0;
+}
+
+#info{
+    padding: 10px;
+    font-weight: bold;
+}
+
+.button {
+    text-align: center;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.condements {
+    color: #1E6274;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.add-ons {
+    color:  #1E6274;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.input {
+    color: #1E6274;
+}
+
+textarea{
+    width: 100%;
+    height: 65px;
+    margin: 12px, 0;
+    border: 1px, solid, #929292;
+}
+
+/*=========  FINAL PAGES BACK BUTTON =========*/
+
+.back-page {
+    font-size: 30px;
+    text-decoration: none;
+    color: #1E6274;
+    border-bottom-style: hidden;
+    
+}
+
+.back-page a {
+    text-align: center;
+}
+
+/*=========  LIQUOR BAN =========*/
+
+.container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container .content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0); 
+    background: rgba(255, 255, 255, .8);
+    color: red;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+}
+
+.content p {
+    color: red;
+}
+
+
+
+/*=========  PLACE ORDER =========*/
+
+.thanks img {
+    width: 100%;
+    margin-top: 150px;;
+    color: white;
+    text-align: center;
+}
+
+.thanks h2{
+    font-family: Valeria;
+    font-size: 70px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.thanks p {
+    font-family: Valeria;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 54%;
+    transform: translate(-20%, -80%);
+    color: white;
+}
+
+.back-home i {
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 45px;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+
+
+
+/*=========  RESIZING PAGES =========*/
+
+@media only screen and (min-width: 0px) {
+    #main-menu {
+        width: 100%;
+        margin: auto;
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    #main-menu {
+        width: 80%;
+        margin: auto;
+    }
+
+
+    .menu-items{
+        width: 80%;
+        margin: auto;
+    }
+    
+    #final-pages{
+        width: 80%;
+        margin: auto;
+    }
+    
+    .order{
+        width: 80%;
+        margin: auto;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    #main-menu{
+        width: 60%;
+        margin: auto;
+    }
+     .menu-items{
+        width: 60%;
+        margin: auto;
+    }
+    
+    #final-pages{
+        width: 60%;
+        margin: auto;
+    }
+    
+    .order {
+        width: 60%;
+        margin: auto;
+    }
+}
+
+
+@media only screen and (min-width: 1500px) {
+    #meals {
+        width: 40%;
+        margin: auto;
+    }
+    #recipe{
+        width: 40%;
+        margin: auto;
+    }
+    
+    .order{
+        width: 40%;
+        margin: auto;
+    }
+    
+    .menu-items {
+        width: 40%;
+        margin: auto;
+    }
+}
+
+   
+@media only screen and (min-width: 800px) {
+    .body-home {
+        background-image: url('images/homepage-background-land.jpg');
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    .body-main-menu {
+        background-image: url('images/Main-menu-background-land.jpg');
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    .body-menu {
+        background-image: url('images/Background.jpg');
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    .body-order {
+        background-image: url('images/starr.png');
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
